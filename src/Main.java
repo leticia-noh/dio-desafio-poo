@@ -1,4 +1,6 @@
+import br.com.dio.desafio.dominio.Bootcamp;
 import br.com.dio.desafio.dominio.Curso;
+import br.com.dio.desafio.dominio.Dev;
 import br.com.dio.desafio.dominio.Mentoria;
 
 import java.time.LocalDate;
@@ -15,6 +17,5 @@ public class Main {
         System.out.println(curso1);
         System.out.println(curso2);
         System.out.println(mentoria);
-
     }
 }
