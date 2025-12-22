@@ -7,7 +7,7 @@ Foi desenvolvido um projeto Java de abstração de elementos de um bootcamp, com
 * Git
 
 ## Pré-requisito 📋
-* JDK 25
+* JDK 11+
 
 ## Passo a passo para executar ▶️
 1. Clone o repositório: `git clone https://github.com/leticia-noh/Desafio-POO-DIO.git`
