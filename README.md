@@ -10,7 +10,7 @@ Foi desenvolvido um projeto Java de abstração de elementos de um bootcamp, com
 * JDK 11+
 
 ## Passo a passo para executar ▶️
-1. Clone o repositório: `git clone https://github.com/leticia-noh/Desafio-POO-DIO.git`
+1. Clone o repositório: `git clone https://github.com/leticia-noh/dio-desafio-poo.git`
 2. Entre na pasta src: `cd src`
 3. Para compilar, execute o comando `javac Main.java`
 4. Para executar: `java Main` 
